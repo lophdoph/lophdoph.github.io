@@ -1,5 +1,3 @@
-title: welcome to my shithole
-description: beautiful art for u to enjoy
 
 ## Welcome to GitHub Pages
 
